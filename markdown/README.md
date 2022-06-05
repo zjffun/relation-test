@@ -2,6 +2,8 @@
 
 description
 
+<-- add in range -->
+
 ## Installation
 
 npm
@@ -20,11 +22,13 @@ yarn add test
 
 ### Create
 
-<-- will be deleted -->
-
 ### Update
 
-xxx
+<-- update -->
+
+<-- update -->
+
+<-- update -->
 
 ### Read
 
@@ -33,6 +37,10 @@ xxx
 ### Delete
 
 xxx
+
+## <-- add out of range -->
+
+<-- add out of range -->
 
 ## API
 
