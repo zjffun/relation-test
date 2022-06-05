@@ -1,0 +1,34 @@
+[
+  {
+    "rev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "path": "./markdown/README.zh-CN.md",
+    "range": [1, 4],
+    "srcRev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "srcPath": "./markdown/README.md",
+    "srcRange": [1, 4]
+  },
+  {
+    "rev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "path": "./markdown/README.zh-CN.md",
+    "range": [5, 18],
+    "srcRev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "srcPath": "./markdown/README.md",
+    "srcRange": [5, 18]
+  },
+  {
+    "rev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "path": "./markdown/README.zh-CN.md",
+    "range": [19, 36],
+    "srcRev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "srcPath": "./markdown/README.md",
+    "srcRange": [19, 36]
+  },
+  {
+    "rev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "path": "./markdown/README.zh-CN.md",
+    "range": [37, 40],
+    "srcRev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "srcPath": "./markdown/README.md",
+    "srcRange": [37, 40]
+  }
+]
