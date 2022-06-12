@@ -4,5 +4,12 @@
   "version": "1.0.0",
   "repository": "git@github.com:zjffun/relation-test.git",
   "author": "Jufeng Zhang <zjffun@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "relation2-install": "rm -rf node_modules && npm install",
+    "relation2-check": "relation2 check"
+  },
+  "dependencies": {
+    "relation2": "../relation"
+  }
 }
