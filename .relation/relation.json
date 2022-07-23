@@ -1,67 +1,67 @@
 [
   {
-    "rev": "42677f4701e77d257594df857ca5060f0645ccb8",
-    "path": "./markdown/README.zh-CN.md",
-    "range": [1, 4],
-    "srcRev": "42677f4701e77d257594df857ca5060f0645ccb8",
-    "srcPath": "./markdown/README.md",
-    "srcRange": [1, 4]
+    "toRev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "toPath": "./markdown/README.zh-CN.md",
+    "toRange": [1, 4],
+    "fromRev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "fromPath": "./markdown/README.md",
+    "fromRange": [1, 4]
   },
   {
-    "rev": "42677f4701e77d257594df857ca5060f0645ccb8",
-    "path": "./markdown/README.zh-CN.md",
-    "range": [5, 18],
-    "srcRev": "42677f4701e77d257594df857ca5060f0645ccb8",
-    "srcPath": "./markdown/README.md",
-    "srcRange": [5, 18]
+    "toRev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "toPath": "./markdown/README.zh-CN.md",
+    "toRange": [5, 18],
+    "fromRev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "fromPath": "./markdown/README.md",
+    "fromRange": [5, 18]
   },
   {
-    "rev": "42677f4701e77d257594df857ca5060f0645ccb8",
-    "path": "./markdown/README.zh-CN.md",
-    "range": [19, 36],
-    "srcRev": "42677f4701e77d257594df857ca5060f0645ccb8",
-    "srcPath": "./markdown/README.md",
-    "srcRange": [19, 36]
+    "toRev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "toPath": "./markdown/README.zh-CN.md",
+    "toRange": [19, 36],
+    "fromRev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "fromPath": "./markdown/README.md",
+    "fromRange": [19, 36]
   },
   {
-    "rev": "42677f4701e77d257594df857ca5060f0645ccb8",
-    "path": "./markdown/README.zh-CN.md",
-    "range": [37, 40],
-    "srcRev": "42677f4701e77d257594df857ca5060f0645ccb8",
-    "srcPath": "./markdown/README.md",
-    "srcRange": [37, 40]
+    "toRev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "toPath": "./markdown/README.zh-CN.md",
+    "toRange": [37, 40],
+    "fromRev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "fromPath": "./markdown/README.md",
+    "fromRange": [37, 40]
   },
 
   {
-    "rev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
-    "path": "./txt/test.zh-CN.txt",
-    "range": [1, 3],
-    "srcRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
-    "srcPath": "./txt/test.txt",
-    "srcRange": [1, 3]
+    "toRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
+    "toPath": "./txt/test.zh-CN.txt",
+    "toRange": [1, 3],
+    "fromRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
+    "fromPath": "./txt/test.txt",
+    "fromRange": [1, 3]
   },
   {
-    "rev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
-    "path": "./txt/test.zh-CN.txt",
-    "range": [4, 6],
-    "srcRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
-    "srcPath": "./txt/test.txt",
-    "srcRange": [4, 6]
+    "toRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
+    "toPath": "./txt/test.zh-CN.txt",
+    "toRange": [4, 6],
+    "fromRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
+    "fromPath": "./txt/test.txt",
+    "fromRange": [4, 6]
   },
   {
-    "rev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
-    "path": "./txt/test.zh-CN.txt",
-    "range": [7, 9],
-    "srcRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
-    "srcPath": "./txt/test.txt",
-    "srcRange": [7, 9]
+    "toRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
+    "toPath": "./txt/test.zh-CN.txt",
+    "toRange": [7, 9],
+    "fromRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
+    "fromPath": "./txt/test.txt",
+    "fromRange": [7, 9]
   },
   {
-    "rev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
-    "path": "./txt/test.zh-CN.txt",
-    "range": [10, 12],
-    "srcRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
-    "srcPath": "./txt/test.txt",
-    "srcRange": [10, 12]
+    "toRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
+    "toPath": "./txt/test.zh-CN.txt",
+    "toRange": [10, 12],
+    "fromRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
+    "fromPath": "./txt/test.txt",
+    "fromRange": [10, 12]
   }
 ]
