@@ -1,67 +1,122 @@
 [
   {
-    "toRev": "42677f4701e77d257594df857ca5060f0645ccb8",
-    "toPath": "./markdown/README.zh-CN.md",
-    "toRange": [1, 4],
-    "fromRev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "id": "9c0tjeuc6e",
     "fromPath": "./markdown/README.md",
-    "fromRange": [1, 4]
-  },
-  {
-    "toRev": "42677f4701e77d257594df857ca5060f0645ccb8",
     "toPath": "./markdown/README.zh-CN.md",
-    "toRange": [5, 18],
-    "fromRev": "42677f4701e77d257594df857ca5060f0645ccb8",
-    "fromPath": "./markdown/README.md",
-    "fromRange": [5, 18]
+    "fromRange": [
+      1,
+      4
+    ],
+    "toRange": [
+      1,
+      4
+    ],
+    "fromGitRev": "768b50b1c1d8da264596bc5c06dd1563ebd59dc3",
+    "toGitRev": "768b50b1c1d8da264596bc5c06dd1563ebd59dc3"
   },
   {
-    "toRev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "id": "175356vfst",
+    "fromPath": "./markdown/README.md",
     "toPath": "./markdown/README.zh-CN.md",
-    "toRange": [19, 36],
-    "fromRev": "42677f4701e77d257594df857ca5060f0645ccb8",
-    "fromPath": "./markdown/README.md",
-    "fromRange": [19, 36]
+    "fromRange": [
+      5,
+      18
+    ],
+    "toRange": [
+      5,
+      18
+    ],
+    "fromGitRev": "768b50b1c1d8da264596bc5c06dd1563ebd59dc3",
+    "toGitRev": "768b50b1c1d8da264596bc5c06dd1563ebd59dc3"
   },
   {
-    "toRev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "id": "eq1waiqf6z",
+    "fromPath": "./markdown/README.md",
     "toPath": "./markdown/README.zh-CN.md",
-    "toRange": [37, 40],
-    "fromRev": "42677f4701e77d257594df857ca5060f0645ccb8",
+    "fromRange": [
+      19,
+      36
+    ],
+    "toRange": [
+      19,
+      36
+    ],
+    "fromGitRev": "768b50b1c1d8da264596bc5c06dd1563ebd59dc3",
+    "toGitRev": "768b50b1c1d8da264596bc5c06dd1563ebd59dc3"
+  },
+  {
+    "id": "i2bx8cpz7v",
     "fromPath": "./markdown/README.md",
-    "fromRange": [37, 40]
-  },
-
-  {
-    "toRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
-    "toPath": "./txt/test.zh-CN.txt",
-    "toRange": [1, 3],
-    "fromRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
-    "fromPath": "./txt/test.txt",
-    "fromRange": [1, 3]
-  },
-  {
-    "toRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
-    "toPath": "./txt/test.zh-CN.txt",
-    "toRange": [4, 6],
-    "fromRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
-    "fromPath": "./txt/test.txt",
-    "fromRange": [4, 6]
+    "toPath": "./markdown/README.zh-CN.md",
+    "fromRange": [
+      37,
+      40
+    ],
+    "toRange": [
+      37,
+      40
+    ],
+    "fromGitRev": "768b50b1c1d8da264596bc5c06dd1563ebd59dc3",
+    "toGitRev": "768b50b1c1d8da264596bc5c06dd1563ebd59dc3"
   },
   {
-    "toRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
-    "toPath": "./txt/test.zh-CN.txt",
-    "toRange": [7, 9],
-    "fromRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
+    "id": "w2ds33rk42",
     "fromPath": "./txt/test.txt",
-    "fromRange": [7, 9]
+    "toPath": "./txt/test.zh-CN.txt",
+    "fromRange": [
+      1,
+      3
+    ],
+    "toRange": [
+      1,
+      3
+    ],
+    "fromGitRev": "768b50b1c1d8da264596bc5c06dd1563ebd59dc3",
+    "toGitRev": "768b50b1c1d8da264596bc5c06dd1563ebd59dc3"
   },
   {
-    "toRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
-    "toPath": "./txt/test.zh-CN.txt",
-    "toRange": [10, 12],
-    "fromRev": "aef5629e2727f166f7c9a7cc7ec2cb2d351502d0",
+    "id": "4504y91frl",
     "fromPath": "./txt/test.txt",
-    "fromRange": [10, 12]
+    "toPath": "./txt/test.zh-CN.txt",
+    "fromRange": [
+      4,
+      6
+    ],
+    "toRange": [
+      4,
+      6
+    ],
+    "fromGitRev": "768b50b1c1d8da264596bc5c06dd1563ebd59dc3",
+    "toGitRev": "768b50b1c1d8da264596bc5c06dd1563ebd59dc3"
+  },
+  {
+    "id": "l696e0zlc5",
+    "fromPath": "./txt/test.txt",
+    "toPath": "./txt/test.zh-CN.txt",
+    "fromRange": [
+      7,
+      9
+    ],
+    "toRange": [
+      7,
+      9
+    ],
+    "fromGitRev": "768b50b1c1d8da264596bc5c06dd1563ebd59dc3",
+    "toGitRev": "768b50b1c1d8da264596bc5c06dd1563ebd59dc3"
+  },
+  {
+    "id": "afy5p6ks04",
+    "fromPath": "./txt/test.txt",
+    "toPath": "./txt/test.zh-CN.txt",
+    "fromRange": [
+      10,
+      12
+    ],
+    "toRange": [
+      10,
+      12
+    ],
+    "fromGitRev": "768b50b1c1d8da264596bc5c06dd1563ebd59dc3",
+    "toGitRev": "768b50b1c1d8da264596bc5c06dd1563ebd59dc3"
   }
 ]
