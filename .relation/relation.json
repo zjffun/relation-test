@@ -1,8 +1,8 @@
 [
   {
     "id": "9c0tjeuc6e",
-    "fromPath": "./markdown/README.md",
-    "toPath": "./markdown/README.zh-CN.md",
+    "fromPath": "markdown/README.md",
+    "toPath": "markdown/README.zh-CN.md",
     "fromRange": [
       1,
       4
@@ -16,8 +16,8 @@
   },
   {
     "id": "175356vfst",
-    "fromPath": "./markdown/README.md",
-    "toPath": "./markdown/README.zh-CN.md",
+    "fromPath": "markdown/README.md",
+    "toPath": "markdown/README.zh-CN.md",
     "fromRange": [
       5,
       18
@@ -31,8 +31,8 @@
   },
   {
     "id": "eq1waiqf6z",
-    "fromPath": "./markdown/README.md",
-    "toPath": "./markdown/README.zh-CN.md",
+    "fromPath": "markdown/README.md",
+    "toPath": "markdown/README.zh-CN.md",
     "fromRange": [
       19,
       36
@@ -46,8 +46,8 @@
   },
   {
     "id": "i2bx8cpz7v",
-    "fromPath": "./markdown/README.md",
-    "toPath": "./markdown/README.zh-CN.md",
+    "fromPath": "markdown/README.md",
+    "toPath": "markdown/README.zh-CN.md",
     "fromRange": [
       37,
       40
@@ -61,8 +61,8 @@
   },
   {
     "id": "w2ds33rk42",
-    "fromPath": "./txt/test.txt",
-    "toPath": "./txt/test.zh-CN.txt",
+    "fromPath": "txt/test.txt",
+    "toPath": "txt/test.zh-CN.txt",
     "fromRange": [
       1,
       3
@@ -76,8 +76,8 @@
   },
   {
     "id": "4504y91frl",
-    "fromPath": "./txt/test.txt",
-    "toPath": "./txt/test.zh-CN.txt",
+    "fromPath": "txt/test.txt",
+    "toPath": "txt/test.zh-CN.txt",
     "fromRange": [
       4,
       6
@@ -91,8 +91,8 @@
   },
   {
     "id": "l696e0zlc5",
-    "fromPath": "./txt/test.txt",
-    "toPath": "./txt/test.zh-CN.txt",
+    "fromPath": "txt/test.txt",
+    "toPath": "txt/test.zh-CN.txt",
     "fromRange": [
       7,
       9
@@ -106,8 +106,8 @@
   },
   {
     "id": "afy5p6ks04",
-    "fromPath": "./txt/test.txt",
-    "toPath": "./txt/test.zh-CN.txt",
+    "fromPath": "txt/test.txt",
+    "toPath": "txt/test.zh-CN.txt",
     "fromRange": [
       10,
       12
